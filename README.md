@@ -1,5 +1,6 @@
 ## NotesApp setup
-```npm install```
+* ```npm install```
+* This app also requires running MySQL server. MySQL credentials can be updated in `app/config/dbConfig.js`
 ### Run NotesApp
 ```node server.js```
 
